@@ -1,5 +1,7 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "My-Hacker-News-Clone",
+  "author": "Arjun",
+  "description": "A Hacker News clone built by me using React + Vite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
